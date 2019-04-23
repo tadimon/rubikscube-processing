@@ -6,3 +6,5 @@ Based on Daniel Shiffmann's Rubik's cube coding challenge from [The Coding Train
 Using only 3D matrix transforms to calculate all movements. Very straightforward code.
 
 I also tried making controls easyer with face select by keyboard letter, then rotate with arrows.
+
+Uses processing library PeasyCam by Jonathan Feinberg
